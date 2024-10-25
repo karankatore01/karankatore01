@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Katore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right"alt="Data"width="400"src="![image](https://github.com/user-attachments/assets/5750e87f-9960-4b14-ba10-86416f44f82f)
+<img align="right" alt="Data" width="400" src="![image](https://github.com/user-attachments/assets/5750e87f-9960-4b14-ba10-86416f44f82f)
 " >
 
 

@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Katore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Data" width="400" src="![image](https://github.com/user-attachments/assets/5750e87f-9960-4b14-ba10-86416f44f82f)
-" >
+<img align="right" width="400" src="https://github.com/user-attachments/assets/5bea15b3-5d8e-4b25-a049-c4f8c584a7e0">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karankatore01&label=Profile%20views&color=0e75b6&style=flat" alt="karankatore01" /> </p>

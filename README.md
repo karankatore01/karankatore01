@@ -1,8 +1,8 @@
+![logo](https://github.com/karankatore01/karankatore01/blob/main/cover.gif)
 <h1 align="center">Hi 👋, I'm Karan Katore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🌱 Tech Enthusiast | Exploring Software Development and AI</h3>
 
-<img align="right" width="400" src="![image](https://github.com/user-attachments/assets/9c7d50e1-c3d7-4058-afd8-e3551d1b11fb)">
-
+<img align="right" alt="Data" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karankatore01&label=Profile%20views&color=0e75b6&style=flat" alt="karankatore01" /> </p>
 

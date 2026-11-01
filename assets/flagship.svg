@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<defs>
+  <radialGradient id="g1" cx="85%" cy="55%" r="40%"><stop offset="0" stop-color="#3ef0a8" stop-opacity=".18"/><stop offset="1" stop-color="#3ef0a8" stop-opacity="0"/></radialGradient>
+  <clipPath id="r"><rect width="1200" height="400" rx="18"/></clipPath>
+</defs>
+<style>
+.mono{font-family:Consolas, 'SF Mono', Menlo, 'Courier New', monospace} .sans{font-family:'Segoe UI', -apple-system, Helvetica, Arial, sans-serif}
+.ln{opacity:0;animation:in .6s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
+.cur{animation:blink 1s steps(1) infinite} @keyframes blink{50%{opacity:0}}
+
+.ants{animation:march 1s linear infinite} @keyframes march{to{stroke-dashoffset:-16}}
+.rec{animation:blink 1.2s steps(1) infinite}
+.bar{transform-box:fill-box;transform-origin:bottom;animation:eq 1.6s ease-in-out infinite alternate}
+@keyframes eq{from{transform:scaleY(.35)}to{transform:scaleY(1)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
+@keyframes ring{0%{transform:scale(.8);opacity:.9}100%{transform:scale(1.6);opacity:0}}
+</style>
+<g clip-path="url(#r)">
+  <rect width="1200" height="400" fill="#0d121b"/>
+  <rect width="1200" height="400" fill="url(#g1)"/>
+  <text x="40" y="50" class="mono" font-size="13" fill="#3ef0a8" letter-spacing="2.5">ONE PERSON · THREE CAMERAS · ONE IDENTITY</text>
+  <text x="40" y="86" class="sans" font-size="26" font-weight="700" fill="#eef3fa">Multi-camera detection + person re-identification</text>
+
+  
+  <g>
+    <rect x="40" y="120" width="260" height="80" rx="9" fill="#04060a" stroke="#1f2a3a"/>
+    <text x="52" y="138" class="mono" font-size="10" fill="#7d8ba1">CAM 01</text>
+    <circle class="rec" cx="262" cy="134" r="3.5" fill="#ff5f57"/>
+    <text x="270" y="138" class="mono" font-size="9" fill="#ff5f57">REC</text>
+    <line x1="50" y1="190" x2="290" y2="190" stroke="#1f2a3a"/>
+    <circle cx="110" cy="156" r="7" fill="#3a475c"/>
+    <rect x="101" y="165" width="18" height="24" rx="6" fill="#3a475c"/>
+    <rect class="ants" x="93" y="144" width="34" height="50" fill="none" stroke="#3ef0a8" stroke-width="1.6" stroke-dasharray="5 3"/>
+    <rect x="93" y="128" width="78" height="15" rx="2" fill="#3ef0a8"/>
+    <text x="97" y="139" class="mono" font-size="10" font-weight="700" fill="#07090d">ID 07 · 0.94</text>
+  </g>
+  <g>
+    <rect x="40" y="212" width="260" height="80" rx="9" fill="#04060a" stroke="#1f2a3a"/>
+    <text x="52" y="230" class="mono" font-size="10" fill="#7d8ba1">CAM 02</text>
+    <circle class="rec" cx="262" cy="226" r="3.5" fill="#ff5f57"/>
+    <text x="270" y="230" class="mono" font-size="9" fill="#ff5f57">REC</text>
+    <line x1="50" y1="282" x2="290" y2="282" stroke="#1f2a3a"/>
+    <circle cx="190" cy="248" r="7" fill="#3a475c"/>
+    <rect x="181" y="257" width="18" height="24" rx="6" fill="#3a475c"/>
+    <rect class="ants" x="173" y="236" width="34" height="50" fill="none" stroke="#3ef0a8" stroke-width="1.6" stroke-dasharray="5 3"/>
+    <rect x="173" y="220" width="78" height="15" rx="2" fill="#3ef0a8"/>
+    <text x="177" y="231" class="mono" font-size="10" font-weight="700" fill="#07090d">ID 07 · 0.91</text>
+  </g>
+  <g>
+    <rect x="40" y="304" width="260" height="80" rx="9" fill="#04060a" stroke="#1f2a3a"/>
+    <text x="52" y="322" class="mono" font-size="10" fill="#7d8ba1">CAM 03</text>
+    <circle class="rec" cx="262" cy="318" r="3.5" fill="#ff5f57"/>
+    <text x="270" y="322" class="mono" font-size="9" fill="#ff5f57">REC</text>
+    <line x1="50" y1="374" x2="290" y2="374" stroke="#1f2a3a"/>
+    <circle cx="150" cy="340" r="7" fill="#3a475c"/>
+    <rect x="141" y="349" width="18" height="24" rx="6" fill="#3a475c"/>
+    <rect class="ants" x="133" y="328" width="34" height="50" fill="none" stroke="#3ef0a8" stroke-width="1.6" stroke-dasharray="5 3"/>
+    <rect x="133" y="312" width="78" height="15" rx="2" fill="#3ef0a8"/>
+    <text x="137" y="323" class="mono" font-size="10" font-weight="700" fill="#07090d">ID 07 · 0.96</text>
+  </g>
+  <path d="M300 160 C 360 160, 360 235, 430 235" fill="none" stroke="#2a3a50" stroke-width="1.6"/><path d="M300 252 C 360 252, 360 240, 430 240" fill="none" stroke="#2a3a50" stroke-width="1.6"/><path d="M300 344 C 360 344, 360 245, 430 245" fill="none" stroke="#2a3a50" stroke-width="1.6"/><circle r="4" fill="#3ef0a8"><animateMotion dur="2.2s" begin="0.0s" repeatCount="indefinite" path="M300 160 C 360 160, 360 235, 430 235"/></circle><circle r="4" fill="#3ef0a8"><animateMotion dur="2.2s" begin="0.5s" repeatCount="indefinite" path="M300 252 C 360 252, 360 240, 430 240"/></circle><circle r="4" fill="#3ef0a8"><animateMotion dur="2.2s" begin="1.0s" repeatCount="indefinite" path="M300 344 C 360 344, 360 245, 430 245"/></circle>
+
+  <rect x="430" y="150" width="300" height="180" rx="12" fill="#0b0f16" stroke="#1f2a3a"/>
+  <text x="452" y="178" class="mono" font-size="12" fill="#7d8ba1" letter-spacing="1.5">RE-ID EMBEDDING</text>
+  <rect class="bar" style="animation-delay:-1.09s" x="454" y="268.7" width="6" height="31.3" rx="2" fill="#3ef0a8" opacity=".9"/><rect class="bar" style="animation-delay:-1.21s" x="464" y="261.3" width="6" height="38.7" rx="2" fill="#5ab4ff" opacity=".9"/><rect class="bar" style="animation-delay:-0.13s" x="474" y="247.0" width="6" height="53.0" rx="2" fill="#b18cff" opacity=".9"/><rect class="bar" style="animation-delay:-1.67s" x="484" y="281.3" width="6" height="18.7" rx="2" fill="#3ef0a8" opacity=".9"/><rect class="bar" style="animation-delay:-0.47s" x="494" y="267.5" width="6" height="32.5" rx="2" fill="#5ab4ff" opacity=".9"/><rect class="bar" style="animation-delay:-0.94s" x="504" y="226.2" width="6" height="73.8" rx="2" fill="#b18cff" opacity=".9"/><rect class="bar" style="animation-delay:-0.95s" x="514" y="235.2" width="6" height="64.8" rx="2" fill="#3ef0a8" opacity=".9"/><rect class="bar" style="animation-delay:-0.30s" x="524" y="246.2" width="6" height="53.8" rx="2" fill="#5ab4ff" opacity=".9"/><rect class="bar" style="animation-delay:-1.74s" x="534" y="246.4" width="6" height="53.6" rx="2" fill="#b18cff" opacity=".9"/><rect class="bar" style="animation-delay:-1.48s" x="544" y="252.7" width="6" height="47.3" rx="2" fill="#3ef0a8" opacity=".9"/><rect class="bar" style="animation-delay:-0.13s" x="554" y="244.4" width="6" height="55.6" rx="2" fill="#5ab4ff" opacity=".9"/><rect class="bar" style="animation-delay:-1.18s" x="564" y="239.5" width="6" height="60.5" rx="2" fill="#b18cff" opacity=".9"/><rect class="bar" style="animation-delay:-0.06s" x="574" y="265.1" width="6" height="34.9" rx="2" fill="#3ef0a8" opacity=".9"/><rect class="bar" style="animation-delay:-0.95s" x="584" y="233.5" width="6" height="66.5" rx="2" fill="#5ab4ff" opacity=".9"/><rect class="bar" style="animation-delay:-1.76s" x="594" y="241.7" width="6" height="58.3" rx="2" fill="#b18cff" opacity=".9"/><rect class="bar" style="animation-delay:-1.84s" x="604" y="242.0" width="6" height="58.0" rx="2" fill="#3ef0a8" opacity=".9"/><rect class="bar" style="animation-delay:-1.60s" x="614" y="259.9" width="6" height="40.1" rx="2" fill="#5ab4ff" opacity=".9"/><rect class="bar" style="animation-delay:-1.87s" x="624" y="257.1" width="6" height="42.9" rx="2" fill="#b18cff" opacity=".9"/><rect class="bar" style="animation-delay:-0.19s" x="634" y="232.8" width="6" height="67.2" rx="2" fill="#3ef0a8" opacity=".9"/><rect class="bar" style="animation-delay:-0.43s" x="644" y="274.4" width="6" height="25.6" rx="2" fill="#5ab4ff" opacity=".9"/><rect class="bar" style="animation-delay:-0.87s" x="654" y="227.9" width="6" height="72.1" rx="2" fill="#b18cff" opacity=".9"/><rect class="bar" style="animation-delay:-0.60s" x="664" y="246.9" width="6" height="53.1" rx="2" fill="#3ef0a8" opacity=".9"/><rect class="bar" style="animation-delay:-0.77s" x="674" y="253.6" width="6" height="46.4" rx="2" fill="#5ab4ff" opacity=".9"/><rect class="bar" style="animation-delay:-1.17s" x="684" y="262.3" width="6" height="37.7" rx="2" fill="#b18cff" opacity=".9"/><rect class="bar" style="animation-delay:-1.81s" x="694" y="249.3" width="6" height="50.7" rx="2" fill="#3ef0a8" opacity=".9"/><rect class="bar" style="animation-delay:-1.86s" x="704" y="243.8" width="6" height="56.2" rx="2" fill="#5ab4ff" opacity=".9"/>
+  <text x="452" y="320" class="mono" font-size="11" fill="#7d8ba1">appearance vector per person</text>
+
+  <path d="M730 240 C 770 240, 780 240, 820 240" fill="none" stroke="#2a3a50" stroke-width="1.6"/>
+  <circle r="4" fill="#3ef0a8"><animateMotion dur="1.4s" repeatCount="indefinite" path="M730 240 C 770 240, 780 240, 820 240"/></circle>
+
+  <rect x="820" y="130" width="340" height="220" rx="14" fill="#0b0f16" stroke="#3ef0a8" stroke-opacity=".5"/>
+  <text x="846" y="166" class="mono" font-size="12" fill="#7d8ba1" letter-spacing="1.5">GLOBAL IDENTITY</text>
+  <circle class="ring" cx="1100" cy="160" r="12" fill="none" stroke="#3ef0a8" stroke-width="2"/>
+  <circle cx="1100" cy="160" r="6" fill="#3ef0a8"/>
+  <text x="842" y="250" class="sans" font-size="86" font-weight="700" fill="#3ef0a8">#07</text>
+  <text x="848" y="290" class="sans" font-size="18" fill="#eef3fa">matched across 3 cameras</text>
+  <text x="848" y="320" class="mono" font-size="13" fill="#7d8ba1">✓ same person · new ID only if unseen</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="399" rx="18" fill="none" stroke="#1f2a3a"/>
+</svg>

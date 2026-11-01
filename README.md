@@ -43,17 +43,14 @@ class KaranKatore:
 
 ```mermaid
 flowchart LR
-    A["📹 Cameras 1…N"] --> B["🎯 YOLOv8<br/>person detection"]
-    B --> C["✂️ Person crops"]
-    C --> D["🧬 Re-ID model<br/>appearance embedding"]
-    D --> E{"🔗 Seen before?"}
-    E -- "yes → reuse ID" --> F[("🗂️ Global identity DB")]
-    E -- "no → new ID" --> F
-    F --> G["🧍 One ID per person<br/>across every camera"]
+    A["📹 Cameras<br/>1…N"] --> B["🎯 YOLOv8<br/>detect people"]
+    B --> D["🧬 Re-ID<br/>embedding"]
+    D --> E{"🔗 Seen<br/>before?"}
+    E -- "yes / no" --> G[("🧍 One global ID<br/>per person")]
 
     classDef node fill:#0b0f16,stroke:#3ef0a8,color:#eef3fa,stroke-width:1.5px
     classDef key fill:#0d2b25,stroke:#3ef0a8,color:#3ef0a8,stroke-width:2px
-    class A,B,C,D,F node
+    class A,B,D node
     class E,G key
 ```
 

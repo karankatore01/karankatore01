@@ -1,42 +1,129 @@
-![logo](https://github.com/karankatore01/karankatore01/blob/main/cover.gif)
-<h1 align="center">Hi 👋, I'm Karan Katore</h1>
-<h3 align="center">🌱 Tech Enthusiast | Exploring Software Development and AI</h3>
-
-<img align="right" alt="Data" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karankatore01&label=Profile%20views&color=0e75b6&style=flat" alt="karankatore01" /> </p>
-
-- 🔭 I’m currently studying **last year B-tech in CSE**
-
-- 🌱 I’m currently learning **data science**
-
-- 📫 How to reach me **karankatore01@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/karan-katore-3a3280243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-katore-3a3280243/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/karankatore01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/karankatore01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/karankatore143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/karankatore143" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090d,55:0d2b25,100:3ef0a8&height=210&section=header&text=Karan%20Katore&fontSize=58&fontColor=eef3fa&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Generative%20AI&descAlignY=58&descSize=18" alt="Karan Katore — AI Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://karankatore01.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=3EF0A8&center=true&vCenter=true&width=640&lines=AI+Engineer+%40+NymbleUp+%F0%9F%9A%80;Turning+CCTV+feeds+into+real-time+insights;Multi-camera+detection+%2B+person+Re-ID;RAG+chatbots+%26+LLM+applications;Models+that+leave+the+notebook" alt="Typing intro" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://karankatore01.github.io"><img src="https://img.shields.io/badge/Portfolio-karankatore01.github.io-3ef0a8?style=for-the-badge&logo=googlechrome&logoColor=07090d" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/karan-katore-3a3280243"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:karankatore01@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.kaggle.com/karankatore01"><img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karankatore01&show_icons=true&locale=en&layout=compact" alt="karankatore01" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karankatore01&label=profile%20views&color=3ef0a8&style=flat-square" alt="Profile views" />
+</p>
 
+---
 
-<!--
-**karankatore01/karankatore01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `> whoami`
 
-Here are some ideas to get you started:
+```python
+class KaranKatore:
+    role      = "AI Engineer @ NymbleUp"
+    based_in  = "Mumbai, India 🇮🇳"
+    focus     = ["Computer Vision", "Multi-camera Tracking & Re-ID", "Generative AI", "RAG"]
+    shipping  = "real-time video analytics that run on edge GPUs"
+    education = "B.Tech CSE · Sandip University · CGPA 8.68"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def currently(self):
+        return "turning live store cameras into analytics with detection, tracking & re-identification"
+
+    def ask_me_about(self):
+        return ["YOLO", "person re-ID", "RAG pipelines", "squeezing models onto small GPUs"]
+```
+
+---
+
+### 🧠 Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎥 <a href="https://github.com/karankatore01/multi_camera_detection">Multi-Camera Detection & Re-ID</a></h4>
+      Detects people with <b>YOLOv8</b> across several cameras and re-identifies the same person between views with a Re-ID model, storing identities in a database.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/YOLOv8-111?style=flat-square" /> <img src="https://img.shields.io/badge/Re--ID-111?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-111?style=flat-square&logo=opencv" /> <img src="https://img.shields.io/badge/SQLite-111?style=flat-square&logo=sqlite" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧍 <a href="https://github.com/karankatore01/camera_detect">Global Identity Matching (FastReID)</a></h4>
+      Assigns one global identity to a person seen on different cameras using <b>FastReID</b> embeddings and similarity matching.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/FastReID-111?style=flat-square" /> <img src="https://img.shields.io/badge/PyTorch-111?style=flat-square&logo=pytorch" /> <img src="https://img.shields.io/badge/Embeddings-111?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://github.com/karankatore01/student-monitoring-system">Real-Time Student Monitoring</a></h4>
+      Webcam streaming to a <b>FastAPI</b> backend that flags confusion and proctoring events live on a teacher dashboard, with explainable CV logic.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-111?style=flat-square&logo=fastapi" /> <img src="https://img.shields.io/badge/OpenCV-111?style=flat-square&logo=opencv" /> <img src="https://img.shields.io/badge/Real--time-111?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 <a href="https://github.com/karankatore01/Rag-Based-ChatBot">RAG-Based AI Chatbot</a></h4>
+      Retrieval-augmented chatbot with <b>LangChain + FAISS</b>, served via Flask and AWS Lambda — <b>+30%</b> response relevance over plain retrieval.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-111?style=flat-square" /> <img src="https://img.shields.io/badge/FAISS-111?style=flat-square" /> <img src="https://img.shields.io/badge/AWS%20Lambda-111?style=flat-square&logo=awslambda" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🕵️ <a href="https://github.com/karankatore01/Detecting_deceptive_feedback_using-_AI">Deceptive Feedback Detection</a></h4>
+      SVM / Random Forest classifier on <b>50k+</b> reviews with a live monitoring dashboard — <b>+25%</b> detection accuracy.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/scikit--learn-111?style=flat-square&logo=scikitlearn" /> <img src="https://img.shields.io/badge/NLP-111?style=flat-square" /> <img src="https://img.shields.io/badge/Flask-111?style=flat-square&logo=flask" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>👤 <a href="https://github.com/karankatore01/Age-and-Gender-detection">Age & Gender Detection</a></h4>
+      <b>VGG-16</b> web app predicting gender (<b>90%</b>) and age (<b>85%</b>) from photos in real time.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-111?style=flat-square&logo=tensorflow" /> <img src="https://img.shields.io/badge/VGG--16-111?style=flat-square" /> <img src="https://img.shields.io/badge/Flask-111?style=flat-square&logo=flask" />
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://karankatore01.github.io"><b>→ See all of it live, with a neural net you can train in your browser</b></a></p>
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="ML stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,aws,postgres,mysql,git,github,vscode,html,css,js&theme=dark" alt="Tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-0b0f16?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastReID-0b0f16?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-0b0f16?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0b0f16?style=flat-square&logo=huggingface" />
+  <img src="https://img.shields.io/badge/Transformers-0b0f16?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAISS-0b0f16?style=flat-square" />
+  <img src="https://img.shields.io/badge/Keras-0b0f16?style=flat-square&logo=keras" />
+  <img src="https://img.shields.io/badge/XGBoost-0b0f16?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-0b0f16?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0b0f16?style=flat-square&logo=numpy" />
+</p>
+
+---
+
+### 📊 GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karankatore01&show_icons=true&hide_border=true&bg_color=0b0f16&title_color=3ef0a8&icon_color=5ab4ff&text_color=cfd8e6&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankatore01&layout=compact&hide_border=true&bg_color=0b0f16&title_color=3ef0a8&text_color=cfd8e6&langs_count=6" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karankatore01/karankatore01/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ef0a8,45:0d2b25,100:07090d&height=110&section=footer" alt="" />
+</p>

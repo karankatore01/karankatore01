@@ -116,11 +116,6 @@ class KaranKatore:
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karankatore01&show_icons=true&hide_border=true&bg_color=0b0f16&title_color=3ef0a8&icon_color=5ab4ff&text_color=cfd8e6&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankatore01&layout=compact&hide_border=true&bg_color=0b0f16&title_color=3ef0a8&text_color=cfd8e6&langs_count=6" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/karankatore01/karankatore01/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
